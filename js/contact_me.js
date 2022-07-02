@@ -11,6 +11,10 @@ function formSubmit(e) {
     )
     formData.append(
         'email',
+        document.querySelector('input[name="surname"]').value
+    )
+    formData.append(
+        'email',
         document.querySelector('input[name="email"]').value
     )
 
