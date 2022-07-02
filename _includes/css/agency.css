@@ -669,6 +669,10 @@ section#contact .section-heading {
 
 section#contact .form-group {
     margin-bottom: 25px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
 }
 
 section#contact .form-group input,
