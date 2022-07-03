@@ -18,7 +18,7 @@ function formSubmit(e) {
         document.querySelector('input[name="email"]').value
     )
 
-    fetch("https://getform.io/f/6b6549ce-aa5e-4f03-bdb3-6f9740414cf9", {
+    fetch("https://getform.io/f/a8730d11-7f0c-47e9-a9ca-c49c8fb529fe", {
             method: "POST",
             body: formData,
     })
