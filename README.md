@@ -1,2 +1,2 @@
-# Mentoria Kit Automake:lipstick:
-Repositório com arquivos do formulário de lead para Mentoria Kit Automake por Kely Eudenia Makeup.
+# Landpage Eudenia Makeup:lipstick:
+Repositório com arquivos da Landpage por Kely Eudenia Makeup.
